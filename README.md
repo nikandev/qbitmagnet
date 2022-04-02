@@ -10,3 +10,5 @@ Usage:
   Add - path_to_exe\qBitMagnet.exe "%N" %Z %T %I %J
   
   Click - OK
+
+Win64 release download https://github.com/nikandev/qbitmagnet/releases
